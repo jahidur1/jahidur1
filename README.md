@@ -138,7 +138,7 @@ This allows me to build:
 
 ---
 
-## 📊 Engineering Activity
+## 📊 Activity
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jahidur1&show_icons=true&theme=radical&hide_border=true" />
@@ -147,13 +147,7 @@ This allows me to build:
 
 ---
 
-## 🏆 Engineering Milestones
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jahidur1&theme=matrix&no-frame=true" />
-</p>
-
----
 
 ## 🧠 Architecture Principles
 
