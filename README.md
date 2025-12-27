@@ -168,8 +168,6 @@ This allows me to build:
 ## 🌍 Connect
 
 - 📍 India 🇮🇳
-- 💼 LinkedIn: *(add link)*
-- 🌐 Product demo / portfolio: *(recommended)*
 
 ---
 
